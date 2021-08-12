@@ -15,11 +15,11 @@
       "launchUrl": "swagger",
       "environmentVariables": {
         "ASPNETCORE_ENVIRONMENT": "Development",
-        "ASPNETCORE_ConfiguracaoDeEmail__Host": "smtp.gmail.com",
-        "ASPNETCORE_ConfiguracaoDeEmail__Port": "587",
-        "ASPNETCORE_ConfiguracaoDeEmail__EnableSsl": "true",
-        "ASPNETCORE_ConfiguracaoDeEmail__Endereco": "sistemas.rh@novaeranet.com.br",
-        "ASPNETCORE_ConfiguracaoDeEmail__Senha": "N0va3r@20202026"
+        "ASPNETCORE_ConfiguracaoDeEmail__Host": "nome do host",
+        "ASPNETCORE_ConfiguracaoDeEmail__Port": "porta",
+        "ASPNETCORE_ConfiguracaoDeEmail__EnableSsl": "se usa ssl",
+        "ASPNETCORE_ConfiguracaoDeEmail__Endereco": "endereço de email de envio",
+        "ASPNETCORE_ConfiguracaoDeEmail__Senha": "senha do email de envio"
       }
     },
     "API": {
