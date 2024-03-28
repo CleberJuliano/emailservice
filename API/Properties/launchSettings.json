@@ -22,7 +22,7 @@
         "ASPNETCORE_ConfiguracaoDeEmail__Senha": "senha do email de envio"
       }
     },
-    "API": {
+    "Development": {
       "commandName": "Project",
       "dotnetRunMessages": "true",
       "launchBrowser": true,
